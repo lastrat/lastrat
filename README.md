@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vectors%2Fweb-development-banner-vectors&psig=AOvVaw0ikSn6GyqP8Tj8Hsk9GDPD&ust=1727691032414000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjdo_3054gDFQAAAAAdAAAAABAE)](https://rishavchanda.io)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vectors%2Fweb-development-banner-vectors&psig=AOvVaw0ikSn6GyqP8Tj8Hsk9GDPD&ust=1727691032414000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjdo_3054gDFQAAAAAdAAAAABAE)]
 <h1 align="center">Hi 👋, I'm Simo Simo Gildas</h1>
 <h3 align="center">🌟 Driven Software Engineer, Big Data Scientist, Designer, and Video Editor from Cameroon 🎨 | Merging Code, Creativity, and Visual Storytelling 🚀 | Always Innovating, Collaborating, and Creating 💡 | Ready to Shape the Future with You! #TechWithArt #CodeAndCreate #InnovationInAction 🎬</h3>
 
