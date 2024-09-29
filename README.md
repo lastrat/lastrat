@@ -4,10 +4,6 @@
 
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lastrat&label=Profile%20views&color=0e75b6&style=flat" alt="lastrat" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lastrat" alt="lastrat" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/lastrategie01" target="blank"><img src="https://img.shields.io/twitter/follow/lastrategie01?logo=twitter&style=for-the-badge" alt="lastrategie01" /></a> </p>
 
 - 🔭 I’m currently working on **Udeywise**
@@ -19,6 +15,10 @@
 - 📫 How to reach me **simosimogildas@gmail.com**
 
 - ⚡ Fun fact **Gojo Satoru is a G.O.A.T**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lastrat&label=Profile%20views&color=0e75b6&style=flat" alt="lastrat" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lastrat" alt="lastrat" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
