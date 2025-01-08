@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **<a href="https://ifptii.com">IFPTII</a>**
 
-- 🌱 I’m currently learning **React, Vue Js,**
+- 🌱 I’m currently learning **React, Vue Js, Angular js**
 
 - 💬 Ask me about **Laravel, Bootsrap, Tailwind, Ssas, Java, Django, Flutter, Dart, etc**
 
