@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://z-p3-scontent.fnsi2-1.fna.fbcdn.net/v/t39.30808-6/538912304_3612126599095102_1830081536050305511_n.png?_nc_cat=101&ccb=1-7&_nc_sid=2a1932&_nc_eui2=AeE9Kd2_49PUA9H5dwXCsTb4ewkjJyE4Old7CSMnITg6V6XKjeryFRogBkrJzQv-2wUa1jbR9Ga1NqdSDet4c8_L&_nc_ohc=ht5AS2nVwuUQ7kNvwHMu113&_nc_oc=AdocvF2rkHnnI7h1OCmOuwH7zNZn2qvL44ax8G1b_P20oPk_OU-Zz-vAiC3WZabgnW8&_nc_zt=23&_nc_ht=z-p3-scontent.fnsi2-1.fna&_nc_gid=wibu7vV9uBSKEOrRnnEHbg&_nc_ss=7a3a8&oh=00_Af1dbijOKwgVfHycBC8G3Sdgrg-faFaHcsiR6fQyxfG-PQ&oe=69EE7F72" alt="Profile Picture" width="100%" style="border-radius: 50%; border: 4px solid #0e75b6;">
+<img src="https://z-p3-scontent.fnsi2-1.fna.fbcdn.net/v/t39.30808-6/538912304_3612126599095102_1830081536050305511_n.png?_nc_cat=101&ccb=1-7&_nc_sid=2a1932&_nc_eui2=AeE9Kd2_49PUA9H5dwXCsTb4ewkjJyE4Old7CSMnITg6V6XKjeryFRogBkrJzQv-2wUa1jbR9Ga1NqdSDet4c8_L&_nc_ohc=ht5AS2nVwuUQ7kNvwHMu113&_nc_oc=AdocvF2rkHnnI7h1OCmOuwH7zNZn2qvL44ax8G1b_P20oPk_OU-Zz-vAiC3WZabgnW8&_nc_zt=23&_nc_ht=z-p3-scontent.fnsi2-1.fna&_nc_gid=wibu7vV9uBSKEOrRnnEHbg&_nc_ss=7a3a8&oh=00_Af1dbijOKwgVfHycBC8G3Sdgrg-faFaHcsiR6fQyxfG-PQ&oe=69EE7F72" alt="Profile Picture" width="100%" style="border-radius: 50%; border: 4px solid #0e75b6; height:100%">
 
 <h1>Hi 👋, I'm Simo Simo Gildas</h1>
-<h3>🌟 Driven Software Engineer from Cameroon</h3>
+<h3>🌟 Young Software Engineer from Cameroon</h3>
 <p>🎨 Merging Code, Creativity, and Visual Storytelling | 🚀 Always Innovating, Collaborating, and Creating</p>
 <p>💡 Ready to Shape the Future with You! | #TechWithArt #CodeAndCreate #InnovationInAction 🎬</p>
 
@@ -51,10 +51,7 @@
 **Frameworks & Libraries:**  
 </div>
 
-<p align="center">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/></a>
-<a href="https://vuejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50"/></a>
-<a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="50" height="50"/></a>
+<p align="center"><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/></a><a href="https://vuejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50"/></a><a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="50" height="50"/></a>
 <a href="https://laravel.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="50" height="50"/></a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/></a>
 <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/></a>
