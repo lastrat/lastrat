@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.vectorstock.com/i/500p/23/07/web-blue-banner-software-ui-and-development-vector-42172307.jpg)](https://www.facebook.com/lastrategie01/)
+[![MasterHead](https://github.com/lastrat/lastrat.git)](https://www.facebook.com/lastrategie01/)
 <h1 align="center">Hi 👋, I'm Simo Simo Gildas</h1>
 <h3 align="center">🌟 Driven Software Engineer, Big Data Scientist, Designer, and Video Editor from Cameroon 🎨 | Merging Code, Creativity, and Visual Storytelling 🚀 | Always Innovating, Collaborating, and Creating 💡 | Ready to Shape the Future with You! #TechWithArt #CodeAndCreate #InnovationInAction 🎬</h3>
 
