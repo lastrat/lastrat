@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://z-p3-scontent.fnsi2-1.fna.fbcdn.net/v/t39.30808-6/538912304_3612126599095102_1830081536050305511_n.png?_nc_cat=101&ccb=1-7&_nc_sid=2a1932&_nc_eui2=AeE9Kd2_49PUA9H5dwXCsTb4ewkjJyE4Old7CSMnITg6V6XKjeryFRogBkrJzQv-2wUa1jbR9Ga1NqdSDet4c8_L&_nc_ohc=ht5AS2nVwuUQ7kNvwHMu113&_nc_oc=AdocvF2rkHnnI7h1OCmOuwH7zNZn2qvL44ax8G1b_P20oPk_OU-Zz-vAiC3WZabgnW8&_nc_zt=23&_nc_ht=z-p3-scontent.fnsi2-1.fna&_nc_gid=wibu7vV9uBSKEOrRnnEHbg&_nc_ss=7a3a8&oh=00_Af1dbijOKwgVfHycBC8G3Sdgrg-faFaHcsiR6fQyxfG-PQ&oe=69EE7F72" alt="Profile Picture" width="200" style="border-radius: 50%; border: 4px solid #0e75b6;">
+<img src="https://z-p3-scontent.fnsi2-1.fna.fbcdn.net/v/t39.30808-6/538912304_3612126599095102_1830081536050305511_n.png?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=2a1932&amp;_nc_eui2=AeE9Kd2_49PUA9H5dwXCsTb4ewkjJyE4Old7CSMnITg6V6XKjeryFRogBkrJzQv-2wUa1jbR9Ga1NqdSDet4c8_L&amp;_nc_ohc=ht5AS2nVwuUQ7kNvwHMu113&amp;_nc_oc=AdocvF2rkHnnI7h1OCmOuwH7zNZn2qvL44ax8G1b_P20oPk_OU-Zz-vAiC3WZabgnW8&amp;_nc_zt=23&amp;_nc_ht=z-p3-scontent.fnsi2-1.fna&amp;_nc_gid=wibu7vV9uBSKEOrRnnEHbg&amp;_nc_ss=7a3a8&amp;oh=00_Af1dbijOKwgVfHycBC8G3Sdgrg-faFaHcsiR6fQyxfG-PQ&amp;oe=69EE7F72" alt="Profile Picture" width="100%" style="border-radius: 50%; border: 4px solid #0e75b6;">
 
 <h1>Hi 👋, I'm Simo Simo Gildas</h1>
 <h3>🌟 Driven Software Engineer & Big Data Scientist from Cameroon</h3>
@@ -31,7 +31,7 @@
 ## 🛠️ Technologies & Tools
 
 ### Programming Languages
-<table align="center">
+<table align="left">
 <tr>
 <td><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a></td>
 <td><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/></a></td>
@@ -47,7 +47,7 @@
 </table>
 
 ### Frameworks & Libraries
-<table align="center">
+<table align="left">
 <tr>
 <td><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/></a></td>
 <td><a href="https://vuejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50"/></a></td>
@@ -64,7 +64,7 @@
 </table>
 
 ### Databases & Backend
-<table align="center">
+<table align="left">
 <tr>
 <td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/></a></td>
 <td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></a></td>
@@ -78,7 +78,7 @@
 </table>
 
 ### DevOps & Cloud
-<table align="center">
+<table align="left">
 <tr>
 <td><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/></a></td>
 <td><a href="https://heroku.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50"/></a></td>
@@ -90,7 +90,7 @@
 </table>
 
 ### Design & Creative
-<table align="center">
+<table align="left">
 <tr>
 <td><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/></a></td>
 <td><a href="https://www.adobe.com/en/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/></a></td>
@@ -100,7 +100,7 @@
 </table>
 
 ### Game & Mobile Development
-<table align="center">
+<table align="left">
 <tr>
 <td><a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="50" height="50"/></a></td>
 <td><a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/></a></td>
@@ -112,7 +112,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
 
 <img src="https://github-readme-stats.vercel.app/api?username=lastrat&show_icons=true&locale=en&theme=default" alt="lastrat's GitHub stats" />
 
@@ -128,7 +128,7 @@
 
 ## 🌐 Connect With Me
 
-<div align="center">
+<div align="left">
 <table>
 <tr>
 <td><a href="https://twitter.com/lastrategie01" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="50" width="50"/></a></td>
@@ -142,7 +142,5 @@
 ---
 
 <div align="center">
-
 **"Driven by passion, fueled by coffee ☕, and always eager to learn something new!"**
-
 </div>
