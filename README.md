@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/lastrat/lastrat.git)](https://www.facebook.com/lastrategie01/)
+[![MasterHead](https://z-p3-scontent.fnsi2-1.fna.fbcdn.net/v/t39.30808-6/538912304_3612126599095102_1830081536050305511_n.png?_nc_cat=101&ccb=1-7&_nc_sid=2a1932&_nc_eui2=AeE9Kd2_49PUA9H5dwXCsTb4ewkjJyE4Old7CSMnITg6V6XKjeryFRogBkrJzQv-2wUa1jbR9Ga1NqdSDet4c8_L&_nc_ohc=ht5AS2nVwuUQ7kNvwHMu113&_nc_oc=AdocvF2rkHnnI7h1OCmOuwH7zNZn2qvL44ax8G1b_P20oPk_OU-Zz-vAiC3WZabgnW8&_nc_zt=23&_nc_ht=z-p3-scontent.fnsi2-1.fna&_nc_gid=wibu7vV9uBSKEOrRnnEHbg&_nc_ss=7a3a8&oh=00_Af1dbijOKwgVfHycBC8G3Sdgrg-faFaHcsiR6fQyxfG-PQ&oe=69EE7F72)](https://www.facebook.com/lastrategie01/)
 <h1 align="center">Hi 👋, I'm Simo Simo Gildas</h1>
 <h3 align="center">🌟 Driven Software Engineer, Big Data Scientist, Designer, and Video Editor from Cameroon 🎨 | Merging Code, Creativity, and Visual Storytelling 🚀 | Always Innovating, Collaborating, and Creating 💡 | Ready to Shape the Future with You! #TechWithArt #CodeAndCreate #InnovationInAction 🎬</h3>
 
