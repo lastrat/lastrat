@@ -17,8 +17,8 @@
 
 <!-- 🌐 Quick Access Navigation -->
 <p align="center">
-  <a href="https://tresor-hotel.com/">
-    <img src="https://img.shields.io/badge/🏨_Tresor_Hotel-Visit_Website-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Tresor Hotel"/>
+  <a href="https://ghostroar.com/">
+    <img src="https://img.shields.io/badge/🏨_Ghostroar_Digital_Website-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Ghostroar Digital"/>
   </a>
   <a href="https://github.com/lastrat">
     <img src="https://img.shields.io/badge/🐙_GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
@@ -65,7 +65,7 @@ Experience: Multi-Disciplinary Professional
 
 # 💼 Professional Focus
 Current:
-  - Full-Stack Development at Tresor Hotel
+  - Web Developper at Ghostroar Digital
   - Big Data Science Projects
   - Video Content Creation
   
